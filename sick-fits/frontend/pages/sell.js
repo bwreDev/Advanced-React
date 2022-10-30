@@ -1,7 +1,7 @@
 export default function SellPage() {
   return (
     <div>
-      <h1>My page</h1>
+      <h1>Sell page</h1>
     </div>
   );
 }
